@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.a2107bc9.css","mappings":"AAAA,EACE,QAAS,CACT,SACF,CAEA,KACE,eAAgB,CAChB,UACF,CAEA,KACE,qBAAuB,CACvB,eACF","sources":["styles/style.css"],"sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n}\n\nmain{\n  min-width: 320px;\n  width: 100%;\n}\n\nbody{\n  background-color: black;\n  overflow: hidden;\n}"],"names":[],"sourceRoot":""}
